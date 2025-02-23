@@ -42,7 +42,7 @@ Another component of scikit-learn, StandardScaler is used for standardizing feat
 
 [Data Processing Sample pt.4](Images/df_market_scaled_head_sample.png)
 
-[Data Processing Sample pt.5](Images/df_market_scaled_head_sample.png)
+[Data Processing Sample pt.5](Images/df_market_scaled_scatterplot.png)
 
 [Data Processing Sample pt.6](Images/elbow_curve.png)
 
