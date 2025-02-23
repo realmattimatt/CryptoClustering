@@ -46,6 +46,8 @@ Another component of scikit-learn, StandardScaler is used for standardizing feat
 
 [Data Processing Sample pt.6](Images/elbow_curve.png)
 
+[Data Processing Sample pt.7](Images/pca_total_explained_variance.png)
+
 ## **Visualization Details**
 
 
