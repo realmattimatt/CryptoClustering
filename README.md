@@ -31,8 +31,8 @@ Another component of scikit-learn, StandardScaler is used for standardizing feat
 
 
 ## **How to Run the Application**
-
-
+- 1. Install Technologies / Dependencies Needed and Used. See - [**Sources**](#sources) for additional information.
+- 2. Open and run the jupyter notebook top to bottom.
 ## **Visualizations**
 [Data Processing Sample pt.1](Images/df_market_data_head_sample.png)
 
