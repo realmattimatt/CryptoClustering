@@ -5,21 +5,18 @@
 - [CryptoClustering](#cryptoclustering)
   - [**Table of Contents**](#table-of-contents)
   - [**Project Overview**](#project-overview)
-  - [**Features**](#features)
   - [**Technologies / Dependencies Needed and Used**](#technologies--dependencies-needed-and-used)
   - [**How to Run the Application**](#how-to-run-the-application)
   - [**Visualizations**](#visualizations)
-  - [**Visualization Details**](#visualization-details)
   - [**Data Source**](#data-source)
   - [**Sources**](#sources)
-  - [**Additional Information**](#additional-information)
   - [**License**](#license)
   - [**Project By**](#project-by)
   - [**Contact**](#contact)
 
 ## **Project Overview**
-
-## **Features**
+Using the [Crypto_Market_data](Resources/crypto_market_data.csv)
+I used 2 different forms of normalizing data, as well as grouping the data by K_means of PCA. 
 
 ## **Technologies / Dependencies Needed and Used**
 - **Pandas**: Used for handling and analyzing large datasets, particularly in tabular form (e.g., DataFrames).
@@ -50,7 +47,9 @@ Another component of scikit-learn, StandardScaler is used for standardizing feat
 
 [Data Processing Sample pt.8](Images/elbow_curve2.png)
 
-## **Visualization Details**
+[Data Processing Sample pt.9](Images/K_means_PCA.png)
+
+[Data Processing Sample pt.10](Images/Dual_elbow_curves.png)
 
 
 ## **Data Source**
@@ -65,9 +64,6 @@ Another component of scikit-learn, StandardScaler is used for standardizing feat
 * Xpert Learning Assist
 * Google
 * ChatGPT
-
-## **Additional Information**
-
 
 ## **License**
 This project is licensed under the [GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007](./LICENSE) - see the LICENSE file for details here.
