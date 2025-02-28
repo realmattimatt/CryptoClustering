@@ -15,8 +15,7 @@
   - [**Contact**](#contact)
 
 ## **Project Overview**
-Using the [Crypto_Market_data](Resources/crypto_market_data.csv)
-I used 2 different forms of normalizing data, as well as grouping the data by K_means of PCA. 
+In this project, I analyzed the [**Crypto_Market_data**](Resources/crypto_market_data.csv) dataset using two different methods of data normalization to ensure a balanced comparison. After normalizing the data, I applied Principal Component Analysis (PCA) to reduce dimensionality and then used K-Means clustering to group cryptocurrencies based on their principal components. This approach allowed for a clearer distinction between different crypto assets based on their market characteristics.
 
 ## **Technologies / Dependencies Needed and Used**
 - **Pandas**: Used for handling and analyzing large datasets, particularly in tabular form (e.g., DataFrames).
